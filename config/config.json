@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1cf4259743c8d23bd13ef77f365b85446c005099",
+  "SCAN_LINK": "https://bscscan.com/address/0x1cf4259743c8d23bd13ef77f365b85446c005099",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Baby VFloki",
+  "SYMBOL": "BVFloki",
+  "MAX_SUPPLY": 60,
+  "WEI_COST": 71000000000000000,
+  "DISPLAY_COST": 0.071,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Tofu NFT",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
